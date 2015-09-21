@@ -39,11 +39,8 @@
     "gulp-babel": "^5.2.1",
     "jest-cli": "^0.5.10",
     "object-assign": "^4.0.1",
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0",
     "run-sequence": "^1.1.4"
   },
   "peerDependencies": {
-    "react": "^0.13.0 || ^0.14.0"
   }
 }
